@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+
+<toc label="jQuery Reference" link_to="toc.xml#reference">
+	<topic label="jQuery Index"  href="libraries_docs/jquery/docs/index.html">
+		<topic label="Core"  href="libraries_docs/jquery/docs/core.html">
+			<topic label="Attributes"  href="libraries_docs/jquery/docs/dom_attributes.html"/>
+			<topic label="Manipulation"  href="libraries_docs/jquery/docs/dom_manipulation.html"/>
+			<topic label="Traversing"  href="libraries_docs/jquery/docs/dom_traversing.html"/>
+		</topic>
+		<topic label="CSS"  href="libraries_docs/jquery/docs/css.html">
+		</topic>
+		<topic label="JavaScript"  href="libraries_docs/jquery/docs/javascript.html">
+		</topic>
+		<topic label="Events"  href="libraries_docs/jquery/docs/events.html">
+		</topic>
+		<topic label="Effects"  href="libraries_docs/jquery/docs/effects.html">
+		</topic>
+		<topic label="Ajax"  href="libraries_docs/jquery/docs/ajax.html">
+		</topic>
+	</topic>
+</toc>
